@@ -1,0 +1,10 @@
+int SumOfN(int n);
+int Factorial(int n);
+void Factors(int n);
+int Perfect(int n);
+int Prime(int n);
+int Digits(int n);
+int Armstrong(int n);
+int Reverse(int n);
+int Palindrome(int m, int n);
+int GDC(int m, int n);
